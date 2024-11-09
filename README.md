@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0213-house-robber-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0213-house-robber-ii) |
 ## Hash Table
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0213-house-robber-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
