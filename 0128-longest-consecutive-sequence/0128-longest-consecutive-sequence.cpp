@@ -1,37 +1,44 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-
-        if(nums.empty())
+        std::unordered_map<int, int> umNums;
+        int answer{};
+        
+        for (const auto& num : nums)
         {
-            return 0;
+            umNums[num] = 0;
         }
 
-        std::sort(nums.begin(), nums.end());
-        int answer = 0;
-        int sequence = nums[0];
-        int max{ 1 };
-
-        for (int i = 1; i < nums.size(); ++i)
+        for (const auto& num : nums)
         {
-            if (nums[i] == sequence)
+            if (umNums[num] == 0)
             {
-                continue;
-            }
-		else if (std::abs(nums[i] - sequence) == 1)
-            {
-                sequence = nums[i];
-                ++max;
-            }
-            else
-            {
-                answer = max > answer ? max : answer;
-                max = 1;
-                sequence = nums[i];
+                int sequence = num + 1;
+                int length{ 1 };
+                while (umNums.find(sequence) != umNums.end())
+                {
+                    if (umNums[sequence] != 0)
+                    {
+                        length += umNums[sequence];
+                        break;
+                    }
+                    else
+                    {
+                        ++length;
+                        umNums[sequence] = length;
+                    }
+
+                    ++sequence;
+                }
+
+                umNums[num] = length;
+                if (length > answer)
+                {
+                    answer = length;
+                }
             }
         }
 
-        answer = max > answer ? max : answer;
-	    return answer;
+        return answer;
     }
 };
