@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
