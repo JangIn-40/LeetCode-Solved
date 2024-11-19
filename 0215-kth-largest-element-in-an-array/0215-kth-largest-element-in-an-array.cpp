@@ -2,6 +2,8 @@ class Solution {
 public:
     int Partition(vector<int>& nums, int lo, int hi)
     {
+        int random = lo + rand() % (hi - lo + 1);
+        swap(nums[hi], nums[random]);
         int pivot = nums[hi];
         int index = lo;
         for(int i = lo; i < hi; ++i)
