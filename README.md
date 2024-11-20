@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 ## Tree
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -98,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
