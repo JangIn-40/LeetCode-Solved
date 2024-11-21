@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
