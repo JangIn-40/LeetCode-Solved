@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
