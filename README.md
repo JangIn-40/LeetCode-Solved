@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0213-house-robber-ii) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
