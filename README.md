@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0210-course-schedule-ii) |
+| [1039-find-the-town-judge](https://github.com/JangIn-40/LeetCode-Solved/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
+| [1039-find-the-town-judge](https://github.com/JangIn-40/LeetCode-Solved/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0133-clone-graph) |
+| [1039-find-the-town-judge](https://github.com/JangIn-40/LeetCode-Solved/tree/master/1039-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
