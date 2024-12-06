@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0212-word-search-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0213-house-robber-ii) |
 ## Binary Search
 |  |
