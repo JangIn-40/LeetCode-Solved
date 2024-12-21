@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0213-house-robber-ii) |
+| [0397-integer-replacement](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0397-integer-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0605-can-place-flowers) |
 ## Counting Sort
@@ -179,4 +181,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0397-integer-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
