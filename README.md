@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0397-integer-replacement) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
