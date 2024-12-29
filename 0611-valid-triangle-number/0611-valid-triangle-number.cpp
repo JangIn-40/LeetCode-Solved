@@ -8,11 +8,12 @@ public:
         {
             for(int j = i + 1; j < nums.size(); ++j)
             {
-                for(int k = j + 1; k < nums.size(); ++k)
+                for(int k = nums.size() - 1; k > j; --k)
                 {
                     if(nums[i] + nums[j] > nums[k])
                     {
-                        ++answer;
+                        answer += k - j;
+                        break;
                     }
                 }
             }
