@@ -6,20 +6,23 @@ public:
 
         for(int i = 0; i < nums.size(); ++i)
         {
+            if(nums[i] == 0)
+            {
+                continue;
+            }
+            
+            int k = i + 2;
             for(int j = i + 1; j < nums.size(); ++j)
             {
-                for(int k = nums.size() - 1; k > j; --k)
+                while(k < nums.size() && nums[i] + nums[j] > nums[k])
                 {
-                    if(nums[i] + nums[j] > nums[k])
-                    {
-                        answer += k - j;
-                        break;
-                    }
+                    ++k;
                 }
+
+                answer += k - j - 1;
             }
         }
         
         return answer;
     }
-
 };
