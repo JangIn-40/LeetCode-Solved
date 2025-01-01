@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0605-can-place-flowers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0213-house-robber-ii) |
 | [0397-integer-replacement](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0435-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0605-can-place-flowers) |
