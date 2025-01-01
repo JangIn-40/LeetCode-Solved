@@ -12,15 +12,6 @@ public:
             }
         });
 
-        for(auto& e : intervals)
-        {
-            for(auto& ele : e )
-            {
-                cout << ele << ' ';
-            }
-            cout << endl;
-        }
-
         int end = intervals[0][1];
         int answer{};
         for(int i = 1; i < intervals.size(); ++i)
