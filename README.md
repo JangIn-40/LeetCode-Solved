@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0212-word-search-ii) |
+| [0402-remove-k-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0402-remove-k-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
@@ -216,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
