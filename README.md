@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0212-word-search-ii) |
 | [0316-remove-duplicate-letters](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0402-remove-k-digits) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Counting Sort
 |  |
 | ------- |
