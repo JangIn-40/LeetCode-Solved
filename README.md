@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
