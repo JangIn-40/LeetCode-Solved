@@ -1,17 +1,21 @@
 class Solution {
 public:
     string removeDigit(string number, char digit) {
-        priority_queue<string> pq;
+        int index = -1;
 
         for(int i = 0; i < number.size(); ++i)
         {
             if(number[i] == digit)
             {
-                string comp = number.substr(0, i) + number.substr(i + 1);
-                pq.push(comp);
+                if(i + 1 < number.size() && number[i] < number[i + 1])
+                {
+                    return number.substr(0, i) + number.substr(i + 1);
+                }
+
+                index = i;
             }
         }
 
-        return pq.top();
+        return number.substr(0, index) + number.substr(index + 1);
     }
 };
