@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0402-remove-k-digits) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2154-minimum-moves-to-convert-string) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Counting Sort
 |  |
 | ------- |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0402-remove-k-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
