@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2154-minimum-moves-to-convert-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Counting Sort
 |  |
 | ------- |
