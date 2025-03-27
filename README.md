@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/JangIn-40/LeetCode-Solved/tree/master/1039-find-the-town-judge) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,10 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0611-valid-triangle-number) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Quickselect
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
 |  |
 | ------- |
