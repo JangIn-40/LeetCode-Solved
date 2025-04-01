@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 ## Counting Sort
 |  |
 | ------- |
