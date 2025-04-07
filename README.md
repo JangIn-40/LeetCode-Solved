@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JangIn-40/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2650-split-with-minimum-sum) |
+| [2663-distribute-money-to-maximum-children](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2663-distribute-money-to-maximum-children) |
 ## Matrix
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2650-split-with-minimum-sum](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2650-split-with-minimum-sum) |
+| [2663-distribute-money-to-maximum-children](https://github.com/JangIn-40/LeetCode-Solved/tree/master/2663-distribute-money-to-maximum-children) |
 ## Counting Sort
 |  |
 | ------- |
